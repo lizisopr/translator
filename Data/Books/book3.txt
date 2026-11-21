@@ -1,0 +1,7 @@
+# სათაური, შემდეგ აბზაცები (ka|en|ru)
+ჩემი დღე|My Day|Мой день
+დილით ექვს საათზე ვდგები და ჭიქა ჩაის ვსვამ.|In the morning I get up at six o'clock and drink a cup of tea.|Утром я встаю в шесть часов и пью чашку чая.
+შემდეგ ავტობუსით სკოლაში მივდივარ.|Then I go to school by bus.|Потом я еду в школу на автобусе.
+სკოლაში ვსწავლობ ენებს და მათემატიკას.|At school I study languages and mathematics.|В школе я изучаю языки и математику.
+სადილის შემდეგ მეგობრებთან ერთად პარკში ვთამაშობ.|After lunch I play in the park with my friends.|После обеда я играю в парке с друзьями.
+საღამოს წიგნს ვკითხულობ და ადრე ვიძინებ.|In the evening I read a book and go to sleep early.|Вечером я читаю книгу и рано ложусь спать.
