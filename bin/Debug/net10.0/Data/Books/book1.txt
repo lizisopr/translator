@@ -1,6 +1,0 @@
-# პირველი ხაზი — სათაური (ka|en|ru), დანარჩენი — აბზაცები (ka|en|ru)
-პატარა ქალაქი|The Small Town|Маленький город
-ეს პატარა ქალაქი მთებს შორის მდებარეობს.|This small town lies among the mountains.|Этот маленький город расположен среди гор.
-დილით ქუჩებში ხალხი ჩქარობს სამსახურში.|In the morning people hurry to work along the streets.|Утром люди спешат на работу по улицам.
-ბავშვები სკოლისკენ მიდიან და მეგობრებს ესალმებიან.|The children go to school and greet their friends.|Дети идут в школу и здороваются с друзьями.
-საღამოს მზე მთების უკან ჩადის და ყველა სახლში ბრუნდება.|In the evening the sun sets behind the mountains and everyone returns home.|Вечером солнце садится за горы, и все возвращаются домой.
